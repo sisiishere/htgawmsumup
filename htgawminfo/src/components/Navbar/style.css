@@ -1,10 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Livvic&display=swap");
-form {
+.navbar {
   background: url("../images/navbar.jpg");
   font-family: "Livvic";
   font-size: 20px;
-  height: 2200px;
-  width: 1225px;
   color: rgb(196, 2, 2);
   margin: 0 auto;
 }
