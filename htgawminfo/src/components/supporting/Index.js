@@ -12,7 +12,7 @@ const Form = props => {
                     <ul>Ophelia Harkness: N/A, Positive Alignment, Deceased</ul>
                     <ul>Caleb Hapstall: : N/A, Negative Alignment, Deceased</ul>
                     <ul>Catherine Hapstall: N/A, Negative Alignment, Alive</ul>
-                    <ul>Christopher Castillo: Law Professor, Positive Alignment, AliveAlive</ul>
+                    <ul>Christopher Castillo: Law Professor, Positive Alignment, Alive</ul>
                     <ul>Wallace Mahoney: Businessman, Negative Alignment, Deceased</ul>
                     <ul>Dominick Flores: Hitman, Negative Alignment, Deceased</ul>
                     <ul>Jorge Castillo: CEO, Negative Alignment, Deceased</ul>
