@@ -1,12 +1,12 @@
 import React from "react";
 import Navbar from "../components/Navbar/Index";
 import Header from "../components/Header/Index";
-import Body from "../components/Body/Index";
+import M from "../components/Michaela/Index";
 import Sidenote from "../components/Sidenote/Index";
 import Footer from "../components/Footer/Index";
 import { Link } from "react-router-dom";
 
-const Main = props => {
+const Michaela = props => {
   return (
     <div>
       <Navbar>
@@ -20,7 +20,7 @@ const Main = props => {
         <Link to={"/Frank"}></Link>
         <Link to={"/Gabriel"}></Link>
         <Link to={"/Laurel"}></Link>
-        <Link to={"/Mikayla"}></Link>
+        <Link to={"/Michaela"}></Link>
         <Link to={"/Nate"}></Link>
         <Link to={"/Oliver"}></Link>
         <Link to={"/Rebecca"}></Link>
@@ -30,10 +30,10 @@ const Main = props => {
         <Link to={"/Minor"}></Link>
       </Navbar>
       <Header />
-      <Body />
+      <M />
       <Sidenote />
       <Footer />
     </div>
   );
 };
-export default Main;
+export default Michaela;
