@@ -16,7 +16,7 @@ const Form = props => {
                     <ul>Status: Alive</ul>
                     <ul>Age: 20s</ul>
                     <ul>Birth Year: 1994</ul>
-                    <ul>Race/Ethnicity: Black/African-American</ul>
+                    <ul>Race/Ethnicity: Biracial (Black and White)</ul>
                     <ul>Sexual Orientation: Straight</ul>
                     <ul>Episode Count: 31</ul>
                 </li>
